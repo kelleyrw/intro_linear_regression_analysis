@@ -127,3 +127,5 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+/intro_linear_regression_analysis.iml
+/.idea/

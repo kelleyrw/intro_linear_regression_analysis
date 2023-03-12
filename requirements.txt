@@ -1,0 +1,8 @@
+jupyterlab
+jupyterlab_vim
+matplotlib
+pandas
+numpy
+statsmodels
+sklearn
+xlrd
