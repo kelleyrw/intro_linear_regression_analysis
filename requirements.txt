@@ -4,5 +4,7 @@ matplotlib
 pandas
 numpy
 statsmodels
-sklearn
+scikit-learn
 xlrd
+pytest
+-e ."[dev]"

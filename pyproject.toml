@@ -1,0 +1,18 @@
+[build-system]
+requires      = ["setuptools>=61.0.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "lra"
+version = "0.0.0"
+description = "Tools to do this analysis"
+dependencies = [
+    "pandas",
+    "scipy"
+]
+requires-python = ">=3.12"
+
+[project.optional-dependencies]
+dev   = [
+    "pytest",
+]
